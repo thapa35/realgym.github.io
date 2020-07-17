@@ -1,0 +1,6 @@
+nav {
+    flex-direction: column;
+}
+nav ul li a {
+    padding: 10px;
+}
